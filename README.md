@@ -1,1 +1,1 @@
-# esp-air-quality-sensor [IN PROGRESS]
+# esp-air-quality-sensor (work in progress)
